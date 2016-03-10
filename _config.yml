@@ -1,7 +1,7 @@
 name: Griffey
 favicon: null
-layout_spectrum: 0.55
-typography_spectrum: 0.8568827398121357
+layout_spectrum: 1
+typography_spectrum: 0.40744
 cta:
   domain: null
   bucket: null
