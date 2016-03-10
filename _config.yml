@@ -2,6 +2,7 @@ name: Griffey
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.40744
+title: Griffey the cat
 cta:
   domain: null
   bucket: null
