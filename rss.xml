@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Griffey]]></title>
         <description><![CDATA[Griffey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/griffey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 19:54:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 19:58:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/griffey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grid Layout Test]]></title>
             <description><![CDATA[<article><h1>Grid Layout Test</h1><p>Griffey is a cat.  He lives in my house.  Griffey is the best cat.  He wears a hat.  And is very fat.  Sometimes wears a hat.  Does not fold flat.  Other rhyming words.</p></article>]]></description>
-            <link>undefinedgrid-layout-test/index.html</link>
+            <link>https://thegrid.ai/griffey/grid-layout-test/index.html</link>
             <guid isPermaLink="false">a5e4a968-9503-4660-b117-156da7759f36</guid>
-            <pubDate>Thu, 10 Mar 2016 19:54:48 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 19:58:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
