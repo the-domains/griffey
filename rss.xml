@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Griffey]]></title>
+        <description><![CDATA[Griffey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 19:54:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grid Layout Test]]></title>
+            <description><![CDATA[<article><h1>Grid Layout Test</h1><p>Griffey is a cat.  He lives in my house.  Griffey is the best cat.  He wears a hat.  And is very fat.  Sometimes wears a hat.  Does not fold flat.  Other rhyming words.</p></article>]]></description>
+            <link>undefinedgrid-layout-test/index.html</link>
+            <guid isPermaLink="false">a5e4a968-9503-4660-b117-156da7759f36</guid>
+            <pubDate>Thu, 10 Mar 2016 19:54:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
