@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_On the couch. \_"
-datePublished: '2016-03-11T14:46:25.141Z'
-dateModified: '2016-03-11T14:46:22.734Z'
+datePublished: '2016-03-11T14:48:07.381Z'
+dateModified: '2016-03-11T14:46:33.880Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-on-the-couch-on-the-couch-on-the-couch-on-the-couch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-on-the-couch-on-the-couch-on-the-couch-on-the-couch.md
-published: true
 url: on-the-couch-on-the-couch-on-the-couch-on-the-couch/index.html
 _type: Article
 
