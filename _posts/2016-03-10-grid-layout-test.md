@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Here he is.
-datePublished: '2016-03-11T21:17:16.416Z'
-dateModified: '2016-03-11T21:17:10.081Z'
-title: Grid Layout Test
+datePublished: '2016-03-11T21:41:57.245Z'
+dateModified: '2016-03-11T21:41:45.535Z'
+title: "Full 'Article' test"
 author: []
 sourcePath: _posts/2016-03-10-grid-layout-test.md
 published: true
