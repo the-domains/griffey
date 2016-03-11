@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: There is also a Dash
-datePublished: '2016-03-11T21:14:30.650Z'
-dateModified: '2016-03-11T20:13:28.930Z'
+datePublished: '2016-03-11T21:20:13.125Z'
+dateModified: '2016-03-11T21:14:39.012Z'
+title: ''
+author: []
+sourcePath: _posts/2016-03-11-there-is-also-a-dash.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-03-11-there-is-also-a-dash.md
-published: true
 url: there-is-also-a-dash/index.html
 _type: Article
 
