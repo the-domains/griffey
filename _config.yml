@@ -1,6 +1,6 @@
 name: Griffey
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.88081
 typography_spectrum: 0.40744
 title: Griffey the cat
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#bcd4f7'
-    - '#7aa660'
-    - '#840309'
-    - '#010101'
-    - '#0a24f8'
-  brandStrength: 1
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.5
+    - '#c4e4f3'
+    - '#acbec8'
+    - '#606f8c'
+    - '#4c5171'
+    - '#353343'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
